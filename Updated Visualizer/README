@@ -1,0 +1,5 @@
+1) Ensure that you dont modify the bin and lib folders and the jar file and the two folders are placed under the same directory
+
+2)To run the visualizer:  java -jar OthelloVisualizer.jar
+
+
